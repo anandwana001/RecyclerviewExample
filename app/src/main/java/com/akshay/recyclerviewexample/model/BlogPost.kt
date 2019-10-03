@@ -10,6 +10,4 @@ data class BlogPost (
     var body: String,
     var image: String,
     var username : String
-) {
-
-}
+)
